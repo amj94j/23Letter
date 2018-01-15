@@ -38,7 +38,7 @@
     
     [[UINavigationBar appearance] setBackgroundImage:[[UIImage alloc] init] forBarMetrics:UIBarMetricsDefault];
     [[UINavigationBar appearance] setShadowImage:[[UIImage alloc] init]];
-    
+    NSLog(@"=====");
     return YES;
 }
 
